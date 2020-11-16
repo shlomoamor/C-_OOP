@@ -1,0 +1,10 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 2
+First Student Details.: 000803254 - Shlomo Amor
+Second Student Details: 311149082 - Yarden Kuperberg 
+Delivery Date.........: 20 - May - 2019
+Delivered In Delay....: No
+Delay Reason..........: 
+Visual Studio Version.: 2017
+Comments..............: 
+=======================End Exercise Checking Report=========================
